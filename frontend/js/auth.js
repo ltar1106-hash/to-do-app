@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000';
+const API_URL = 'https://to-do-app-backend-oekc.onrender.com';
 
 //===================================
 // Helper arrow functions

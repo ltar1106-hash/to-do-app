@@ -13,7 +13,7 @@ const app = express();
 // Middleware
 app.use(express.json());
 app.use(cors({
-  origin: "https://to-do-app-frontend-red.vercel.app/", // this is to allow our frontend to communicate with our backend
+  origin: "https://to-do-app-frontend-red.vercel.app/", // this is to allow our frontend to communicate with our backen
   methods: ['GET','POST', 'PUT', 'PATCH', 'DELETE'],
   credentials: true,
 }));
