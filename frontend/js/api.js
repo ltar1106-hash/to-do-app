@@ -2,7 +2,7 @@
 // API CONFIGURATION
 // =========================================
 
-const API_URL = 'https://to-do-app-backend-oekc.onrender.com';
+const API_URL = "https://to-do-app-backend-oekc.onrender.com";
 
 // =========================================
 // Protect Dashboard.html
